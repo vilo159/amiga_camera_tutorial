@@ -1,7 +1,7 @@
 """Template test module."""
 import pytest
-from amiga_package import __version__
-from amiga_package import ops
+from amiga_camera_tutorial import __version__
+from amiga_camera_tutorial import ops
 
 # import the internal libs and test
 
